@@ -4,6 +4,8 @@ I'm currently working on **[Relax Stack](https://github.com/infilow)**!
 
 Welcome to visit my [technical workspace](https://infilos.com)!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=infilos)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **infilos/infilos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
